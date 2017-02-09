@@ -1,0 +1,28 @@
+{
+  "order":{
+    "customer":{
+      "firstName":"Nick",
+      "lastName":"Sempere",
+      "address":{
+        "Street": "10 Downing st",
+        "City": "Houston",
+        "Region": "TX",
+        "PostalCode": "77005"
+      },
+      "email":"nicolas.sempere@tufts.edu",
+      "phone":"12345678912"
+    },
+    "deliveryMethod":"Delivery"
+  },
+  "items":[
+    {
+      "code":"14SCREEN",
+      "options":{},
+      "quantity":1
+    }
+  ],
+  "cardNum":"0123456789012345",
+  "cardExp":"0115",
+  "cardSec":"777",
+  "cardPost":"90210"
+}
